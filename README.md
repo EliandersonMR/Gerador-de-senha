@@ -1,5 +1,5 @@
 # 🔐 Gerador de Senhas Personalizado
-
+]
 Projeto de uma página de login com funcionalidade de geração de senhas seguras e customizadas. O usuário pode escolher as opções que deseja incluir na senha (como letras, números e símbolos), e a senha é gerada automaticamente com base nessas preferências.
 
 ---
